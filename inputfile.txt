@@ -1,0 +1,56 @@
+Hello world!
+
+The quick brown fox jumps over the lazy dog.
+
+Hello Hello Hello Hello Hello
+
+This tokenizer should recognize repeated words.
+The tokenizer should also recognize repeated phrases.
+The tokenizer should also recognize repeated phrases.
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+
+abababababababababababababababababab
+
+the the the the the the the the
+
+therethere therefore therefore therefore
+
+international internationalization internationally
+
+ChatGPT builds language models.
+Language models learn patterns.
+Patterns become tokens.
+
+Python C++ Java Rust Go JavaScript
+
+1234567890
+111111111111111111111111111
+999999999999999999999999999
+
+.,!?;:'"()[]{}<>/@#$%^&*-_=+\|
+
+🙂😀😂🔥🚀💀
+
+こんにちは世界
+नमस्ते दुनिया
+مرحبا بالعالم
+
+SuperMegaQuantumPotatoEngine
+
+thequickbrownfoxjumpsoverthelazydog
+
+th th th th th
+ing ing ing ing
+tion tion tion
+
+This sentence appears twice.
+This sentence appears twice.
+
+RareWord_XQZP RareWord_XQZP RareWord_XQZP
+
+abcdefghijklmnopqrstuvwxyz
+
+zyxwvutsrqponmlkjihgfedcba
