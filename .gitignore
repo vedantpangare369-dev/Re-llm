@@ -1,9 +1,9 @@
 # Python cache
 __pycache__/
-*.pyc
+*.py[cod]
 
-# VS Code settings
+# VS Code
 .vscode/
 
-# Generated files
+# Generated tokenizer
 merges.pickle
