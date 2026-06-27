@@ -4,4 +4,7 @@ from encode import  encode
 from decode import decode
 
 
+
+
+
 print(decode(encode(input_text)))
